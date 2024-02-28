@@ -15,4 +15,4 @@ for (let ingredient of ingredients) {
   ul.appendChild(li);
 }
 
-console.log(ingredients);
+// console.log(ingredients);
